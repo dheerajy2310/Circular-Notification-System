@@ -1,16 +1,6 @@
-# viit_circular
+# Circular-Notification-System
+A Circular Notification System mobile application built using Flutter and Firebase
 
-A new Flutter project.
+<img src="https://i.imgur.com/1fjwbvG.jpg" alt="Flutter and Firebase" width="200"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In Colleges, there will be a lot of circulars posted by the college management daily. For viewing these circular in time-to-time, this is mobile application built using Flutter and Firebase which gives notification to every end user whenever a circular is posted and also have a password authentication for the faculty to post circular to everyone. In the application, there are categories for different types of circulars based on the Circular category.
